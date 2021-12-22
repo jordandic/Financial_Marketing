@@ -26,6 +26,7 @@ Other Attribute Variables:
 15 - poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 
 Output variable (Target Variable):
+
 16 - y - has the client subscribed to a term deposit? (binary: 'yes','no') 
 
 Omitted Variables:
